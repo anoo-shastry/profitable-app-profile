@@ -4,5 +4,5 @@ This Dataquest guided project aims to:
 
 # Credits:
 * [Dataquest](https://www.dataquest.io/)
-* Google Play dataset is taken from [here](https://www.kaggle.com/lava18/google-play-store-apps). Direct [download](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv)
-* App Store dataset is taken from [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps). Direct [download](https://dq-content.s3.amazonaws.com/350/AppleStore.csv)
+* Google Play dataset is taken from [here](https://www.kaggle.com/lava18/google-play-store-apps). Download directly from [here](https://dq-content.s3.amazonaws.com/350/googleplaystore.csv).
+* App Store dataset is taken from [here](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps). Download directly from [here](https://dq-content.s3.amazonaws.com/350/AppleStore.csv).
